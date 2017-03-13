@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShuaTi", "ShuaTi\ShuaTi.vcxproj", "{6FA2B043-99DA-4E3B-A4C2-0FB6958EAACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA2B043-99DA-4E3B-A4C2-0FB6958EAACB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6FA2B043-99DA-4E3B-A4C2-0FB6958EAACB}.Debug|Win32.Build.0 = Debug|Win32
+		{6FA2B043-99DA-4E3B-A4C2-0FB6958EAACB}.Release|Win32.ActiveCfg = Release|Win32
+		{6FA2B043-99DA-4E3B-A4C2-0FB6958EAACB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

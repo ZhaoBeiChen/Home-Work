@@ -1,0 +1,6 @@
+c:\users\asus-pc\documents\visual studio 2013\Projects\MyFirstAPP\MyFirstAPP\bin\Debug\MyFirstAPP.exe.config
+c:\users\asus-pc\documents\visual studio 2013\Projects\MyFirstAPP\MyFirstAPP\bin\Debug\MyFirstAPP.exe
+c:\users\asus-pc\documents\visual studio 2013\Projects\MyFirstAPP\MyFirstAPP\bin\Debug\MyFirstAPP.pdb
+c:\users\asus-pc\documents\visual studio 2013\Projects\MyFirstAPP\MyFirstAPP\obj\Debug\MyFirstAPP.csprojResolveAssemblyReference.cache
+c:\users\asus-pc\documents\visual studio 2013\Projects\MyFirstAPP\MyFirstAPP\obj\Debug\MyFirstAPP.exe
+c:\users\asus-pc\documents\visual studio 2013\Projects\MyFirstAPP\MyFirstAPP\obj\Debug\MyFirstAPP.pdb

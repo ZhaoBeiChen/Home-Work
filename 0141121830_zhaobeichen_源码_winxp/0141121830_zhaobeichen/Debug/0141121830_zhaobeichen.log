@@ -1,0 +1,46 @@
+﻿生成启动时间为 2016-8-25 10:26:45。
+     1>项目“H:\0141121830_zhaobeichen_源码\0141121830_zhaobeichen\0141121830_zhaobeichen.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\0141121830_zhaobeichen.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       GenerateTargetFrameworkMonikerAttribute:
+       正在跳过目标“GenerateTargetFrameworkMonikerAttribute”，因为所有输出文件相对于输入文件而言都是最新的。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\0141121830_zhaobeichen.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /FR"Debug\\" /TP /analyze- /errorReport:prompt Function.cpp /clr:nostdlib 
+         Function.cpp
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\0141121830_zhaobeichen_源码\Debug\0141121830_zhaobeichen.exe" /INCREMENTAL /NOLOGO Winmm.lib PDFlib/pdflib.lib shlwapi.lib /MANIFEST /ManifestFile:"Debug\0141121830_zhaobeichen.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\0141121830_zhaobeichen_源码\Debug\0141121830_zhaobeichen.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\0141121830_zhaobeichen.res
+         Debug\0141121830_zhaobeichen.obj
+         Debug\0141121830_zhaobeichenDlg.obj
+         Debug\AddFile.obj
+         Debug\Alert.obj
+         Debug\Alert_01.obj
+         Debug\Alert_02.obj
+         Debug\CalScore.obj
+         Debug\checkIDcardNum.obj
+         Debug\Encryption.obj
+         Debug\EncryptionDialog.obj
+         Debug\Function.obj
+         Debug\PDFout.obj
+         Debug\Set.obj
+         Debug\SetPara.obj
+         Debug\stdafx.obj
+         Debug\Testers.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+     1>PDFout.obj : warning LNK4248: 无法解析 typeref 标记(0100001E)(为“PDF_s”)；映像可能无法运行
+         0141121830_zhaobeichen.vcxproj -> H:\0141121830_zhaobeichen_源码\Debug\0141121830_zhaobeichen.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\0141121830_zhaobeichen_源码\Debug\0141121830_zhaobeichen.exe;#1" /manifest Debug\0141121830_zhaobeichen.exe.intermediate.manifest "c:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       BscMake:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o"H:\0141121830_zhaobeichen_源码\Debug\0141121830_zhaobeichen.bsc" /n Debug\0141121830_zhaobeichen.sbr Debug\0141121830_zhaobeichenDlg.sbr Debug\AddFile.sbr Debug\Alert.sbr Debug\Alert_01.sbr Debug\Alert_02.sbr Debug\CalScore.sbr Debug\checkIDcardNum.sbr Debug\Encryption.sbr Debug\EncryptionDialog.sbr Debug\Function.sbr Debug\PDFout.sbr Debug\Set.sbr Debug\SetPara.sbr Debug\stdafx.sbr Debug\Testers.sbr "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.sbr"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\0141121830_zhaobeichen.unsuccessfulbuild”。
+         正在对“Debug\0141121830_zhaobeichen.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\0141121830_zhaobeichen_源码\0141121830_zhaobeichen\0141121830_zhaobeichen.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:23.12
